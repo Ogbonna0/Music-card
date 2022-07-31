@@ -1,0 +1,47 @@
+.body{
+    background-color: hsl(225, 100%, 94%);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    width: 350px;
+    background-color: hsl(225, 100%, 98%);
+    margin: auto;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.card-head{
+    width: 100% !important;
+    border-radius: 10px;
+}
+#img1{
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#img2{
+    width: 30px;
+    margin-bottom: 10px;
+}
+.price-section{
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    background-color: hsl(0, 0%, 95%);
+    justify-content: space-evenly;
+    border-radius: 10px;
+    padding: 2px;
+}
+.annual{
+    margin: none;
+}
+.text{
+    background-color: blue;
+    border-radius: 10px;
+    margin: 30px;
+    padding: 3px;
+    color: white;
+    box-shadow: 2rem rgba(blue);
+}
